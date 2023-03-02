@@ -1,6 +1,16 @@
-"student": [
 {
-    "Name": "Christian June Padrequil Palin",
-    "Age": "21",
-    "Favorite_Quote": "If you teach others, why don't you teach yourself first"
+    "student": [
+        {
+            "Name": "Christian June Padrequil Palin",
+            "Age": "21",
+            "Favorite_Quote": "If you Teach others, Why don't you Teach yourself first"
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "1901101918@student.buksu.edu.ph"
+        }
+    ]
 }
